@@ -1,1 +1,1 @@
-Um sistema simples de Livraria utilizando C#
+Um sistema para livraria utilizando C#
